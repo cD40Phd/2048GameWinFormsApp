@@ -26,7 +26,7 @@ This is a clone of the popular game 2048, created using WinForm C# .Net. The obj
 
 - Responsive design that works on desktop.
 - Local storage to save the current game state and high score.
-- the rules of the game and restarting the program from choosing the size of the form are in the program menu
+- The rules of the game and restarting the program with choosing the size of the form are in the program menu.
 - Score counter to keep track of your progress. 
 - Recording the values of previous players.
 
