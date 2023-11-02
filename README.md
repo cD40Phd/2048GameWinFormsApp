@@ -9,7 +9,7 @@ This is a clone of the popular game 2048, created using WinForm C# .Net. The obj
 - The game ends when there are no more moves available or when you reach the 2048 tile.
 
 ## Demo
-
+![2048gif](https://github.com/cD40Phd/2048GameWinFormsApp/blob/main/2048.gif)
 
 ## Installation
 ### Windows Forms Application
