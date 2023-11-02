@@ -8,6 +8,9 @@ This is a clone of the popular game 2048, created using WinForm C# .Net. The obj
 - Tiles with the same number will merge into one when they touch.
 - The game ends when there are no more moves available or when you reach the 2048 tile.
 
+## Demo
+
+
 ## Installation
 ### Windows Forms Application
 
